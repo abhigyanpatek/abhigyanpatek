@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
-  <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+  <a href="https://www.linkedin.com/in/abhigyan-patek-bb0726235/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
   <a href="https://www.instagram.com/Abhigyanpatek" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="https://www.hackerrank.com/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AbhigyanPatek" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
 
@@ -35,7 +35,7 @@
   <br/>
   <br/>
   <br/>
-<a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/abhigyan-patek-bb0726235/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt=" " width="25" height="25" /> My GitHub Stats!
 ---
