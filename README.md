@@ -23,10 +23,10 @@
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-  <a href="https://www.instagram.com/anshumanpatek369" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnshumanPatek" height="30" width="40" /></a>
-<a href="https://leetcode.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnshumanPatek" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshumanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumanpatek" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/Abhigyanpatek" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://www.hackerrank.com/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhigyanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AbhigyanPatek" height="30" width="40" /></a>
 
  <!-- <a href="https://www.instagram.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
   </p>
@@ -41,8 +41,8 @@
 ---
 <table>
  <tr>
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanpatek&show_icons=true&include_all_commits=true&theme=dark" /> </td>
-  <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=AnshumanPatek&theme=dark" /> </td>
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhigyanpatek&show_icons=true&include_all_commits=true&theme=dark" /> </td>
+  <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=AbhigyanPatek&theme=dark" /> </td>
  </tr>
 </table> 
 <!-- <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshumanPatek&theme=react-dark" alt="Anshuman Patek" /></div>
@@ -51,10 +51,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Anshuman_Patek = {
+const Abhigyan_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C"++, "Java"],
-    askMeAbout: ["web dev", "tech", "geopolitics"],
+    code: ["Javascript", "C"++, "Python"],
+    askMeAbout: ["web dev", "tech", "chess"],
     technologies: {
         backEnd: {
             code: ["node", "express"],
@@ -63,7 +63,7 @@ const Anshuman_Patek = {
             css: [ "tailwind", "bootstrap"],
             js: ["React"]
         },
-        databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
+        databases: ["mongo", "MySql", "firebase"],
         },
     skills_to_acquire:["React"],
     currentFocus: "Backend",
