@@ -14,7 +14,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-- 📫 Reach me at 👉 **AbhigyanPatek@gmail.com**
+- 📫 Reach me at 👉 **abhigyanpatek@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
 - ⚒️I'm Currently learning React ⚒️
